@@ -1,8 +1,7 @@
 # Hi there, I am Vo Luu Tuong Anh
 
-* Currently a student in FPT University
-* Having interested in Avation Industry
-* **Java Anti-fan**
+* Currently a student at FPT University
+* Interested in the aviation industry
 
 ## Contact me
 
@@ -16,3 +15,4 @@
 <a href="https://www.coursera.org/learner/anhvlttfs" target="_blank" ><img src="https://img.shields.io/badge/-%231877F2.svg?style=for-the-badge&logo=coursera&logoColor=white" /></a>
 <a href="https://leetcode.com/u/anhvlttfs/" target="_blank" ><img src="https://img.shields.io/badge/-%F4A11B.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/profile/anhvlttfs" target="_blank" ><img src="https://img.shields.io/badge/-%23FF0000.svg?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+</p>
